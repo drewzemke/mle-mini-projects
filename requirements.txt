@@ -6,3 +6,4 @@ seaborn
 scrapy
 scipy
 scikit-learn==1.13
+dtreeviz
